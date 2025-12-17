@@ -6,3 +6,6 @@ Official implementation of the paper
 ![Pipeline](data/framework.jpg)
 
 🚧 Code is coming soon.
+
+[![Code License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) **Usage and License Notices**: The code are intended and licensed for research use only. 
+
